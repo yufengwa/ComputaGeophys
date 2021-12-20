@@ -1,0 +1,19 @@
+# Project information
+site_name: 计算地球物理
+site_url: https://yufengwa.github.io/ComputaGeophys/
+site_author: Yufeng Wang
+site_description: >-
+  Create a branded static site from a set of Markdown files to host the
+  documentation of the class notes in Computational Geophysics.
+# Repository
+repo_name: yufengwa/3Dvis4Geodata
+repo_url: https://github.com/yufengwa/ComputaGeophys
+edit_uri: ""
+
+# Copyright
+copyright: Copyright &copy; 2021 Yufeng Wang
+
+
+
+theme:
+  name: material
